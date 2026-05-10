@@ -8,7 +8,7 @@
 - **Severity:** Medium (Exposed MySQL Service Discovered & Remediated)
 - **Detection Method:** Default-Deny Firewall Implementation + Nmap Validation Scan
 - **Tools Used:** UFW (Uncomplicated Firewall), Nmap 7.99
-- **Status:** Complete — 7 Rules Active, MySQL Exposure Remediated
+- **Status:** Complete 7 Rules Active, MySQL Exposure Remediated
 
 ---
 
