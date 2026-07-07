@@ -1,4 +1,4 @@
-# Day 12 – SOC Tier 1 Incident Report: Firewall Rules & Network Segmentation
+# SOC Tier 1 Incident Report: Firewall Rules & Network Segmentation
 
 ---
 
